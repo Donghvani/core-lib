@@ -1,0 +1,4 @@
+*.ide
+*.suo
+Configuration/Configuration/bin/
+Configuration/Configuration/obj/
